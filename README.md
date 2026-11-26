@@ -59,9 +59,8 @@ Q：ゲームの終了
 （ゲームの実行画面を掲載する）
 
 <!-- 画像の記述例：
-![ゲームの実行画面][screenshot](screenshot/screenshot.png)
-画像ファイルもリポジトリに登録してください。
--->
+![screenshot](screenshot/screenshot.png)
+
 
 ## 既知の問題・制限事項
 
